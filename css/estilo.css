@@ -10,14 +10,14 @@ body {
 .divslider{
     padding-left: 300px;
     padding-right: 300px;
-    padding-top: 15px;
+    padding-top: 25px;
     padding-bottom: 15px;
-    background-color: rgb(51, 52, 53);
     background-image: url(../img/images.png);
+    
 }
 
 
-img{
+ img{
     padding-left: auto;
     padding-right: auto;
     align-items: center;
@@ -43,4 +43,11 @@ h1{
 .sectionimg{
     background-image: url(../img/images.png);
 
+}
+.imgServicos{
+    width: 400px;
+    height: 215px;
+}
+.servicos  h4{
+text-align: center;
 }
