@@ -8,8 +8,9 @@ body {
 }
 
 .divslider{
-    padding-left: 300px;
-    padding-right: 300px;
+    display: flex;
+
+    align-items: center;
     padding-top: 25px;
     padding-bottom: 15px;
     background-image: url(../img/images.png);
@@ -18,11 +19,7 @@ body {
 
 
 .imgcarousel{
-    padding-left: auto;
-    padding-right: auto;
     align-items: center;
-    width: 700px;
-    height: 700px;
 }
 section{
     padding-top: 30px;
